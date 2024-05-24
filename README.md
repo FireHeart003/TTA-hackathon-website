@@ -1,6 +1,15 @@
 # TTA Open Source Contribution Project ( Nathan Chen )
 # Hackathon Website Template
 
+### Contributions
+-Contributions are welcome! Please open issues and submit pull requests for any improvements or bug fixes. For more details, please refer to the contribution guidelines in the repository.
+-For the TTA Micro Credential, my team and I will be making commits to the official TTA-hackathon website repository (this is forked repo)
+-We will be focusing on the various issues available in the official repo and reflecting the changes made in this branch 
+
+### Licensing
+No license was found, but the MIT License allows others to do almost anything with your project, like making and distributing closed-source versions. This makes it suitable for most open-source projects.
+
+
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -81,6 +90,8 @@ npm run check
 ```bash
 npm run eslint
 ```
+
+
 
 ### Build the Website
 
