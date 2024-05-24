@@ -9,6 +9,7 @@
 ### Licensing
 No license was found, but the MIT License allows others to do almost anything with your project, like making and distributing closed-source versions. This makes it suitable for most open-source projects.
 
+### Stacks Used
 
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
