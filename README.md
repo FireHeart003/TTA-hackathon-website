@@ -2,9 +2,9 @@
 # Hackathon Website Template
 
 ### Contributions
--Contributions are welcome! Please open issues and submit pull requests for any improvements or bug fixes. For more details, please refer to the contribution guidelines in the repository.
--For the TTA Micro Credential, my team and I will be making commits to the official TTA-hackathon website repository (this is forked repo)
--We will be focusing on the various issues available in the official repo and reflecting the changes made in this branch 
+- Contributions are welcome! Please open issues and submit pull requests for any improvements or bug fixes. For more details, please refer to the contribution guidelines in the repository.
+- For the TTA Micro Credential, my team and I will be making commits to the official TTA-hackathon website repository (this is forked repo)
+- We will be focusing on the various issues available in the official repo and reflecting the changes made in this branch 
 
 ### Licensing
 No license was found, but the MIT License allows others to do almost anything with your project, like making and distributing closed-source versions. This makes it suitable for most open-source projects.
